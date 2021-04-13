@@ -1,0 +1,9 @@
+name: example-trimesh-remesh
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - pip>=19.0
+  - compas>=1.0
+  - compas_cgal
+  - compas_view2
